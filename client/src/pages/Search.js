@@ -86,9 +86,6 @@ function Search() {
                             )
                         }) : "book not found"}
 
-
-
-
                        
                     </div>
                 </Col>
